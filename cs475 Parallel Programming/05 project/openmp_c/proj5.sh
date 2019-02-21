@@ -1,0 +1,10 @@
+#!/bin/bash
+
+## MODIFIED USING PROJECT NOTES HANDOUT SUPPLEMENT
+
+# chunk size
+for ary in 1000 1600 3200 6400 10000 16000 32000 64000 100000 160000 320000 640000 1000000 1600000 3200000 6400000
+do
+    gcc -DARYSZ=$ary simd.p5.c -o proj5 -lm -fopenmp -std=c99
+    ./proj5
+done
