@@ -1,0 +1,15 @@
+﻿Project 1 Max Sum Subarray  -  README
+cs325.400
+
+Group 46
+Brouillette, David
+Fitzwater, James
+Stallkamp, James
+
+
+COMPILING | Because the program executes in Python, no compilation required.
+
+EXECUTION | Program calls a local copy of MSS_Problems.txt: both files must share the same location. Program will create a local copy of MSS_Results.txt.
+
+COMMAND LINE INSTRUCTION | We successfully executed the program with the following command: 
+        % python mssAlgo.py

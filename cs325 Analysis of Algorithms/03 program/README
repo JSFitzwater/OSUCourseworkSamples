@@ -1,0 +1,11 @@
+﻿James Fitzwater
+CS 325.400
+Project 3 - The Travelling Salesman Problem
+
+
+COMPILATION: program executes in Python; no compilation required.
+
+LIBRARIES: program imports the following Python libraries: copy, math, numpy, random, re, sys, time, & unittest
+
+EXECUTION: program retrieves input from command-line. I executed the program on Flip w/ the following instruction:
+		python tsphillclimb.py tsp_example_[number].txt

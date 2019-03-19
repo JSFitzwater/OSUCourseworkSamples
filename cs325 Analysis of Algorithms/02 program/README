@@ -1,0 +1,15 @@
+﻿Project 2 Coin Change -  README
+cs325.400
+
+Group 46
+Brouillette, David
+Fitzwater, James
+Stallkamp, James
+
+
+COMPILING:
+Because the program executes in Python, no compilation required.
+
+EXECUTION:
+Program reads its input file from command-line argument. We successfully executed the program with the following:
+         python coinchange.py Amount.txt
