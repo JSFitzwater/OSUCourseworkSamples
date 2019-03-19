@@ -6,7 +6,7 @@ This assignment, "The Travelling Salesman Problem," focused on employing all tha
 Project 2:
 This team assignment, "Coin Change," focused on deploying three techniques to returning correct change using the fewest number of coins: Divide & Conquer, Greedy, and Dynamic Programming solutions.
 
-Program 1:
+Project 1:
 This team assignment, "Maximum Sum Subarray," taking as input an array, iterated and output the subarray with the maximum sum. Completing this instruction used looping Enumeration, Linear-timed, and Divide & Conquer techniques.
 
 
